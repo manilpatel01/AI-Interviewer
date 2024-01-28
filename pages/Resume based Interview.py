@@ -128,6 +128,7 @@ def initialize_session_state_resume():
 def answer_call_back():
     with get_openai_callback() as cb:
         human_answer = st.session_state.answer
+        print(human_answer + "----------------------------------------------------------------------")
         if voice:
             save_wav_file("temp/audio.wav", human_answer)
             try:
