@@ -7,8 +7,8 @@ import subprocess
 from tempfile import gettempdir
 
 Session = boto3.Session(
-        aws_access_key_id = st.secrets['key'],
-        aws_secret_access_key = st.secrets['value'],
+        aws_access_key_id = os.getenv("aws_access_key_id"),
+        aws_secret_access_key = os.getenv("aws_secret_access_key"),
         region_name = "us-east-1"
     )
 
