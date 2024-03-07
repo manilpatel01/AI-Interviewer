@@ -1,9 +1,9 @@
 # AI Interviewer 🤖🎤
 
 ## Introduction 🌟
-Welcome to the AI Interviewer - a revolutionary tool in AI-enhanced interview preparation! Our system uses OpenAI GPT-4 and Whisper Model for realistic interview simulations. 
+Welcome to the AI Interviewer - a revolutionary tool in AI-enhanced interview preparation! Our system uses OpenAI GPT-3.5 turbo and Whisper Model for realistic interview simulations. 
 
-Check out our deployed application here [AI-Interviewer](https://ai-interviewer-mission255.streamlit.app/).
+Check out our deployed application here [AI-Interviewer](https://ai-interviewer-6b95nhudus8wd7fil3gstb.streamlit.app/).
 
 ## Features 🚀
 - *Personalized Training*: Sessions tailored to user's resumes and job descriptions.
