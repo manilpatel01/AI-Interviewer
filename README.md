@@ -46,4 +46,8 @@ streamlit run Homepage.py
 ```
 
 
+Other Contributors:
+1) [Devarsh Shah](https://github.com/Dshah106)
+
+
 
